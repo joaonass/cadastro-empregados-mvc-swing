@@ -29,7 +29,7 @@ src/
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/seu-repo.git
+https://github.com/joaonass/cadastro-empregados-mvc-swing
 
 2. Abra o projeto em uma IDE Java (NetBeans, IntelliJ ou Eclipse)
 
